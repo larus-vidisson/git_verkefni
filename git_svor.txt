@@ -30,4 +30,5 @@ View the conflicts against the base file:
 
 7.	Hvað er "Working directory"?= mappan sem þu ert að vinna í" "Staging area"?= eftir að þu commitar þa fer það i staginn area þar sem það biður efti að vera pushað" og "Repository"= "verkefni" í GIT?
 
+9.	Hver fann upp GIT? sami gæi og fann upp linux.
 
