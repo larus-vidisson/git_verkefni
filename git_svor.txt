@@ -5,3 +5,11 @@ Git spurningar og svor
 	ls = sýnir þér hvað er innihald möppunar sem þu ert staddur i
 	pwd = sínir hvar þú ert staddur
 	mkdir = býr til nýtt directory
+
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone = býr til alveg eins möppu með öllu innihakdinu aka clónar möppuna
+	git log = þú getur fengið ID-ið á verkefninu
+	git status = sérð statusinn á verkefninu
+	git diff =  View all the merge conflicts:
+View the conflicts against the base file:
+	git checkout = ef þu gerir mistök getur þu "lagað" færslunar í "vinnu trénu" með síðustu færslu.
