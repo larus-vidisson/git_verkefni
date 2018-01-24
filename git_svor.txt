@@ -1,1 +1,7 @@
 Git spurningar og svor
+1. Hvað gera eftirfarandi Linux skipanir?
+	cd = breitir um möppu
+	cd ~ = fer til baka á byrjenda stað
+	ls = sýnir þér hvað er innihald möppunar sem þu ert staddur i
+	pwd = sínir hvar þú ert staddur
+	mkdir = býr til nýtt directory
