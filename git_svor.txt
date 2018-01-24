@@ -13,3 +13,21 @@ Git spurningar og svor
 	git diff =  View all the merge conflicts:
 View the conflicts against the base file:
 	git checkout = ef þu gerir mistök getur þu "lagað" færslunar í "vinnu trénu" með síðustu færslu.
+
+3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff =geturu seð breytingar a færslunum
+	b) git diff --staged = geturu seð breytingar a þvi sem þu ert buinn að stage-a
+	c) git diff commit1 commit2 =
+
+4. 	Hvað er útgáfustýring (e.version control)?
+	= "version control, also known as revision control or source control,[1] is the management of changes to documents, computer programs, large web sites, and other collections of information."
+
+5.	Hverjir eru helstu kostir við að nota GIT?
+= þvi þegar þu notar git þa ertu í raunini að fá stað til að halda utanum allt verkefnið þitt svo að samstarfs menn þinir geti unnið með sama og þú 
+
+6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+	=ef þu ert buinn að vera lengi að eða ef þu ert að stíga frá eða bara eins oft og þér hentar því það er betra að gera það oftar því kanski er samstarfsaðilinn þinn að fara að vinn í því a sama tuima en þu ert ekki buinn að commita í langann tima svo hann fer að vinn i þvi sama og þu.
+
+7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
+
+
