@@ -28,6 +28,6 @@ View the conflicts against the base file:
 6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
 	=ef þu ert buinn að vera lengi að eða ef þu ert að stíga frá eða bara eins oft og þér hentar því það er betra að gera það oftar því kanski er samstarfsaðilinn þinn að fara að vinn í því a sama tuima en þu ert ekki buinn að commita í langann tima svo hann fer að vinn i þvi sama og þu.
 
-7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
+7.	Hvað er "Working directory"?= mappan sem þu ert að vinna í" "Staging area"?= eftir að þu commitar þa fer það i staginn area þar sem það biður efti að vera pushað" og "Repository"= "verkefni" í GIT?
 
 
