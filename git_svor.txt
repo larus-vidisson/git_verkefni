@@ -32,3 +32,6 @@ View the conflicts against the base file:
 
 9.	Hver fann upp GIT? sami gæi og fann upp linux.
 
+Lárus Víðisson
+
+
